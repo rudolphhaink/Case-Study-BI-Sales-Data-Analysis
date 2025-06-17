@@ -16,19 +16,20 @@ The case study consists of two main parts:
 
 ## 📊 Part 1: Analysis
 
-### Selected Analysis: *[Insert Analysis Title Here]*  
-_(e.g., Sales Performance Analysis or Profitability Analysis)_
+### Selected Analysis: *Sales Performance Analysis*  
 
 The analysis explores:
-- Key revenue or profitability trends
-- Performance across different regions, channels, and product types
-- Actionable insights and recommendations for business stakeholders
+- revenue trends across different regions
+- revenue trends across sales channels
+- revenue trends across product types
 
-**Tools used:** [e.g., Excel, Power BI, Tableau, Python, etc.]
+**Tools used:** Python, Visual Studio Code, Google Docs Presentation
 
 **Deliverable:** A 15-minute presentation slide deck intended for a leadership audience.
 
 ➡️ See: [`/presentation`](./presentation)
+
+**Link to Queries**
 
 ---
 
