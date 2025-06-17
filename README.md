@@ -75,7 +75,5 @@ For any questions or clarifications, feel free to reach out.
 
 ## 👤 Author
 
-[Your Full Name]  
-[Your LinkedIn or GitHub link]  
-[Optional: Email or contact info]
+Rudolph Haink
 
