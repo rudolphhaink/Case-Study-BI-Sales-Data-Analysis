@@ -35,15 +35,22 @@ The analysis explores:
 
 ## 🧮 Part 2: SQL Mock Query
 
-### Selected Scenario: *[Insert Scenario Here]*  
-_(e.g., Monthly Product Profitability Query or Online vs. Offline Channel Performance)_
+### Task:   
+Write a query comparing online and offline sales channel performance by region for the past six
+months. Your query should output total revenue, total returns, and the proportion of returned
+units compared to units sold. Also, identify regions with return proportions higher than the
+average.
 
-The query provides:
-- Aggregated business metrics
-- Comparison across time or sales channels
-- Easy-to-understand results for performance tracking
+Expected Output Schema:
 
-**SQL Dialect:** [e.g., PostgreSQL]
++ region
++ channel (online/offline)
++ total_revenue
++ total_returns
++ return_proportion
++ above_average_return (boolean indicating if return proportion is above average)
+  
+**SQL Dialect:** SQLite
 
 **File:** [`/sql/solution.sql`](./sql/solution.sql)  
 Includes inline comments to explain logic and methodology.
