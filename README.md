@@ -27,8 +27,8 @@ The analysis explores:
 
 **Deliverable:** A 15-minute presentation slide deck intended for a leadership audience.
 
-[`/presentation`](./presentation)
-[Link to queries](Part_1_Analysis.sql)
+[`/presentation`](./presentation)  
+[Link to queries](Part_1_Analysis.sql)  
 [Link to Dataset](sales.csv)
 
 **Link to Queries**
@@ -54,8 +54,8 @@ Expected Output Schema:
   
 **SQL Dialect:** SQLite
 
-[Link to queries](Part_2_Mock_Query.sql)  
-Includes inline comments to explain logic and methodology.
+[Link to queries](Part_2_Mock_Query.sql)    
+Includes inline comments to explain logic and methodology.  
 [Link to Dataset](sales.csv)
 
 ---
