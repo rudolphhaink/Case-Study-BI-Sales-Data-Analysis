@@ -25,6 +25,8 @@ The analysis explores:
 
 **Tools used:** Python, Visual Studio Code, Google Docs Presentation
 
+**SQL Dialect:** SQLite
+
 **Deliverable:** A 15-minute presentation slide deck intended for a leadership audience.
 
 [`/presentation`](./presentation)  
@@ -50,6 +52,8 @@ Expected Output Schema:
 + return_proportion
 + above_average_return (boolean indicating if return proportion is above average)
   
+**Tools used:** Python, Visual Studio Code
+
 **SQL Dialect:** SQLite
 
 [Link to Queries](Part_2_Mock_Query.sql)    
