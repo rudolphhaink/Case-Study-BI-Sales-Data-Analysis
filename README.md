@@ -31,8 +31,6 @@ The analysis explores:
 [Link to queries](Part_1_Analysis.sql)  
 [Link to Dataset](sales.csv)
 
-**Link to Queries**
-
 ---
 
 ## 🧮 Part 2: SQL Mock Query
@@ -54,8 +52,7 @@ Expected Output Schema:
   
 **SQL Dialect:** SQLite
 
-[Link to queries](Part_2_Mock_Query.sql)    
-Includes inline comments to explain logic and methodology.  
+[Link to queries](Part_2_Mock_Query.sql) Includes inline comments to explain logic and methodology.  
 [Link to Dataset](sales.csv)
 
 ---
