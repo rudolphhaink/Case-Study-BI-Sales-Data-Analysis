@@ -29,6 +29,7 @@ The analysis explores:
 
 ➡️ See: [`/presentation`](./presentation)
         [Link to queries](Part_1_Analysis.sql)
+        [Link to Dataset](sales.csv)
 
 **Link to Queries**
 
@@ -55,6 +56,7 @@ Expected Output Schema:
 
 **File:** [Link to queries](Part_2_Mock_Query.sql)  
 Includes inline comments to explain logic and methodology.
+[Link to Dataset](sales.csv)
 
 ---
 
