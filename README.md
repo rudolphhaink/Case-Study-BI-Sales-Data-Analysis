@@ -52,7 +52,7 @@ Expected Output Schema:
   
 **SQL Dialect:** SQLite
 
-**File:** [`/sql/solution.sql`](./sql/solution.sql)  
+**File:** [Link to queries](Part_1_Analysis.sql)  
 Includes inline comments to explain logic and methodology.
 
 ---
@@ -67,17 +67,6 @@ The dataset includes ~200k simulated sales transactions with the following field
 - `date` – Transaction date (YYYY-MM-DD)
 
 Note: The data is fictional and used for case study purposes only.
-
----
-
-## 📬 Submission
-
-Please find the required deliverables under:
-
-- `/presentation/` – Slide deck (PDF or PowerPoint)
-- `/sql/` – SQL query file with explanations
-
-For any questions or clarifications, feel free to reach out.
 
 ---
 
