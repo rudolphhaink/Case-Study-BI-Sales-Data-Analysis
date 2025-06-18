@@ -29,7 +29,7 @@ The analysis explores:
 
 **Deliverable:** A 15-minute presentation slide deck intended for a leadership audience.
 
-[Link to Presentation`](https://docs.google.com/presentation/d/1Sh4781kXfknxpAxy6qeisag4PHL2ZL-1RZ8Qc5hRs6g/edit?slide=id.g33d0ce5d221_0_45#slide=id.g33d0ce5d221_0_45)  
+[Link to Presentation](https://docs.google.com/presentation/d/1Sh4781kXfknxpAxy6qeisag4PHL2ZL-1RZ8Qc5hRs6g/edit?slide=id.g33d0ce5d221_0_45#slide=id.g33d0ce5d221_0_45)  
 [Link to Queries](Part_1_Analysis.sql)  
 [Link to Dataset](sales.csv)
 
