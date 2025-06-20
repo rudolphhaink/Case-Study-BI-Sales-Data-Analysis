@@ -23,13 +23,13 @@ The analysis explores:
 - revenue trends across sales channels
 - revenue trends across product types
 
-**Tools used:** Python, Visual Studio Code, Google Docs Presentation
+**Tools used:** Python, Visual Studio Code, Looker Studio
 
 **SQL Dialect:** SQLite
 
 **Deliverable:** A 15-minute presentation slide deck intended for a leadership audience.
 
-[Link to Presentation](https://lookerstudio.google.com/u/1/reporting/62cdb9fc-f9d1-4ceb-a3f2-bbb3cba37257/page/Y0hOF/edit)  
+[Link to Looker Dashboard]((https://lookerstudio.google.com/reporting/62cdb9fc-f9d1-4ceb-a3f2-bbb3cba37257))  
 [Link to Queries](Part_1_Analysis.sql)  
 [Link to Dataset](sales.csv)
 
