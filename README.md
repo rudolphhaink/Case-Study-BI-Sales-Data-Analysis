@@ -29,7 +29,7 @@ The analysis explores:
 
 **Deliverable:** A 15-minute presentation slide deck intended for a leadership audience.
 
-[Link to Looker Dashboard]((https://lookerstudio.google.com/reporting/62cdb9fc-f9d1-4ceb-a3f2-bbb3cba37257))  
+[Link to Looker Dashboard](https://lookerstudio.google.com/reporting/62cdb9fc-f9d1-4ceb-a3f2-bbb3cba37257)
 [Link to Queries](Part_1_Analysis.sql)  
 [Link to Dataset](sales.csv)
 
