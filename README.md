@@ -14,7 +14,7 @@ The case study consists of two main parts:
 
 ---
 
-## 📊 Part 1: Analysis
+## 📊 Part 1: Analysis 
 
 ### Selected Analysis: *Sales Performance Analysis*  
 
