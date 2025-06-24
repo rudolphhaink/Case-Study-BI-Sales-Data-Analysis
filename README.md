@@ -2,7 +2,7 @@
 
 This repository contains my submission for the **(Senior) BI Analyst Case Study** as part of the selection process for the role.
 
-## 📄 Overview
+## 📄 Overview 
 
 The case study consists of two main parts:
 
