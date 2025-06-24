@@ -1,6 +1,6 @@
 # BI Analyst Case Study
 
-This repository contains my submission for the **(Senior) BI Analyst Case Study** as part of the selection process for the role.
+This repository contains my submission for the **(Senior) BI Analyst Case Study** as part of the selection process for a job I applied to.
 
 ## 📄 Overview 
 
