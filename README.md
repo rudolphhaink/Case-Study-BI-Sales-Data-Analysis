@@ -76,5 +76,6 @@ Note: The data is fictional and used for case study purposes only.
 
 ## 👤 Author
 
-Rudolph Haink
+Rudolph Haink  
+[LinkedIn](https://www.linkedin.com/in/rudolph-haink-a5454564/)
 
