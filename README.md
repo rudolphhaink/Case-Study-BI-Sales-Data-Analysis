@@ -33,6 +33,13 @@ The analysis explores:
 [Link to Queries](Part_1_Analysis.sql)  
 [Link to Dataset](sales.csv)
 
+**Key Findings:**
+
+- Profit in the B2B sector (18 Mil. $) is more than twice as large as profit in the B2C sector (8 Mil. $).
+- Profit margin is very similar in all geographic regions.
+- While the average order value is similar online vs. in-store, ca. 35% more revenue is produced via in-store purchases.
+- The return percentage for "premium brake pads" is more than 80% higher than the return percentage for "non-premium brake pads". As more than 5 times more revenue is generated with "premium brake pads", reducing their return percentage is a massive opportunity to increase revenue.  
+
 ---
 
 ## 🧮 Part 2: SQL Mock Query
